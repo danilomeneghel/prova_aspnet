@@ -1,0 +1,52 @@
+﻿@{
+    ViewBag.Title = "Login";
+}
+@if (TempData["message"] != null) {
+    <script type="text/javascript">
+        alert(@Html.Raw(Json.Encode(TempData["message"])));
+    </script>
+}
+
+@using (Html.BeginForm())
+{
+    <table style="width: 100%; height: 600px">
+        <tr>
+            <td align="center">
+                <table style="border: 1px solid #999999">
+                    <tr>
+                        <td style="text-align: right">
+                            <img src="~/Images/cadeado.png" height="155" width="130" />
+                        </td>
+                        <td style="text-align: left" class="auto-style1">
+                            <h2>Acesso Restrito</h2>
+                            <br />
+                            <table>
+                                <tr>
+                                    <td style="height: 25px">Usuário:
+                                    </td>
+                                    <td style="height: 25px">
+                                        @Html.Editor("usuario")
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="height: 25px">Senha:
+                                    </td>
+                                    <td style="height: 25px">
+                                        @Html.Password("senha")
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="height: 30px"></td>
+                                    <td style="height: 30px">
+                                        <input type="submit" name="Entrar" value="Entrar" />
+                                        <input type="reset" name="Limpar" value="Limpar" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+}

@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Models.ListaModel>
+
+@{
+    ViewBag.Title = "Músicas iTunes";
+}
+
+<div class="main-container">
+    <h2>Músicas iTunes</h2>
+
+    @using (Html.BeginForm())
+    {
+        <table>
+            <tr>
+                <td>Filtrar Artista: 
+                </td>
+                <td>
+                    @Html.Editor("artista")
+                    <input type="submit" name="Buscar" value="Buscar" />
+                </td>
+            </tr>
+        </table>
+    }
+    <table class="tableItunes">
+        <tr>
+            <th>Capa do CD</th>
+            <th>Nome da Música</th>
+            <th>Nome do CD/Álbum</th>
+            <th>Duração</th>
+            <th>Data de Lançam.</th>
+            <th>Preço (Dólar)</th>
+            <th>Preço (Real)</th>
+            <th>Prévia</th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src=@Html.DisplayFor(modelItem => item.artworkUrl60) width="100" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.trackName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.collectionName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.trackTimeMillis)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.releaseDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.collectionPrice)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.valorReal)
+                </td>
+                <td>
+                    @Html.ActionLink("Ouvir", "PlayerMusica", new { artista = item.artistName, musica = item.trackName }, new { target = "_blank" })
+                </td>
+            </tr>
+        }
+    </table>
+</div>

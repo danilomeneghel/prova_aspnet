@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Models.ListaModel>
+
+@{
+    ViewBag.Title = "Músicas iTunes";
+}
+
+<div class="main-container">
+    <h2>Músicas iTunes</h2>
+
+    @using (Html.BeginForm("Filtro", "MusicasItunes"))
+    {
+        <table>
+            <tr>
+                <td>Filtrar Artista: 
+                </td>
+                <td>
+                    @Html.Editor("artista")
+                    <input type="submit" name="Buscar" value="Buscar" />
+                </td>
+            </tr>
+        </table>
+    }
+</div>

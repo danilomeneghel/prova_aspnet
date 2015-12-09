@@ -1,0 +1,212 @@
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\prova_aspnet.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\prova_aspnet.pdb
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\Antlr3.Runtime.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\EntityFramework.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\Microsoft.Data.Edm.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\Microsoft.Data.OData.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\Microsoft.Web.Infrastructure.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\Newtonsoft.Json.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Net.Http.Formatting.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Spatial.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.Helpers.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.Http.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.Http.OData.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.Http.Tracing.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.Http.WebHost.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.Mvc.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.Optimization.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.Providers.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.Razor.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.WebPages.Deployment.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.WebPages.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.WebPages.Razor.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\WebGrease.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\EntityFramework.xml
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\Newtonsoft.Json.xml
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Net.Http.Formatting.xml
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.Helpers.xml
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.Http.xml
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.Http.WebHost.xml
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.Mvc.xml
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.Razor.xml
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.WebPages.xml
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.WebPages.Deployment.xml
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.WebPages.Razor.xml
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.Http.Tracing.xml
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Web.Http.OData.xml
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\Microsoft.Data.Edm.xml
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\Microsoft.Data.OData.xml
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\System.Spatial.xml
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\de\System.Spatial.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\es\System.Spatial.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\fr\System.Spatial.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\it\System.Spatial.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\ja\System.Spatial.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\ko\System.Spatial.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\ru\System.Spatial.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\obj\Debug\prova_aspnet.csprojResolveAssemblyReference.cache
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\obj\Debug\prova_aspnet.dll
+c:\users\danilo\documents\visual studio 2012\Projects\prova_aspnet\prova_aspnet\obj\Debug\prova_aspnet.pdb
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\prova_aspnet.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\prova_aspnet.pdb
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\Antlr3.Runtime.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\EntityFramework.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\Microsoft.Data.Edm.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\Microsoft.Data.OData.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\Newtonsoft.Json.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Net.Http.Formatting.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Spatial.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.Helpers.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.Http.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.Http.OData.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.Http.Tracing.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.Http.WebHost.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.Mvc.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.Optimization.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.Providers.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.Razor.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.WebPages.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.WebPages.Razor.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\WebGrease.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\EntityFramework.xml
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\Newtonsoft.Json.xml
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Net.Http.Formatting.xml
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.Helpers.xml
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.Http.xml
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.Http.WebHost.xml
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.Mvc.xml
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.Razor.xml
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.WebPages.xml
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.WebPages.Razor.xml
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.Http.Tracing.xml
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Web.Http.OData.xml
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\Microsoft.Data.Edm.xml
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\Microsoft.Data.OData.xml
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\System.Spatial.xml
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\de\System.Spatial.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\es\System.Spatial.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\fr\System.Spatial.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\it\System.Spatial.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\ja\System.Spatial.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\ko\System.Spatial.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\ru\System.Spatial.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\obj\Debug\prova_aspnet.dll
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\obj\Debug\prova_aspnet.pdb
+C:\Users\Danilo\Documents\Visual Studio 2012\Projects\prova_aspnet2\prova_aspnet\obj\Debug\prova_aspnet.csprojResolveAssemblyReference.cache
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\obj\Debug\prova_aspnet.csprojResolveAssemblyReference.cache
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\obj\Debug\prova_aspnet.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\obj\Debug\prova_aspnet.pdb
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\prova_aspnet.dll.config
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\prova_aspnet.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\prova_aspnet.pdb
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\Antlr3.Runtime.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\EntityFramework.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\Microsoft.Data.Edm.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\Microsoft.Data.OData.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\Microsoft.Web.Infrastructure.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\MySql.Data.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\Newtonsoft.Json.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Net.Http.Formatting.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Spatial.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.Helpers.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.Http.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.Http.OData.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.Http.Tracing.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.Http.WebHost.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.Mvc.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.Optimization.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.Providers.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.Razor.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.WebPages.Deployment.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.WebPages.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.WebPages.Razor.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\WebGrease.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\EntityFramework.xml
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\Newtonsoft.Json.xml
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Net.Http.Formatting.xml
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.Helpers.xml
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.Http.xml
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.Http.WebHost.xml
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.Mvc.xml
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.Razor.xml
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.WebPages.xml
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.WebPages.Deployment.xml
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.WebPages.Razor.xml
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.Http.Tracing.xml
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Web.Http.OData.xml
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\Microsoft.Data.Edm.xml
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\Microsoft.Data.OData.xml
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\System.Spatial.xml
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\de\Microsoft.Data.OData.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\es\Microsoft.Data.OData.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\it\Microsoft.Data.OData.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\de\System.Spatial.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\es\System.Spatial.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\fr\System.Spatial.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\it\System.Spatial.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\ja\System.Spatial.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\ko\System.Spatial.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\ru\System.Spatial.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\zh-Hans\System.Spatial.resources.dll
+D:\Programação\Asp.Net\prova_aspnet\prova_aspnet\prova_aspnet\bin\zh-Hant\System.Spatial.resources.dll
