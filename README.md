@@ -39,7 +39,7 @@ MYSQL 5.6.12
 
 ## License
 
-Laravel Admin is licensed under <a href="license.md">The MIT License (MIT)</a>.
+Laravel Admin is licensed under <a href="LICENSE">The MIT License (MIT)</a>.
 
 ## Screenshots
 
