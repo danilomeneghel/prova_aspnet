@@ -31,15 +31,17 @@
 
 ## Tecnologias Usadas:
 
-C# 
-ASP.NET 4.5
-WEB API (RESTful)
-MYSQL 5.6.12
+- C# 
+- ASP.NET 4.5
+- WEB API (RESTful)
+- JSON
+- MYSQL 5.6.12
 
 
 ## License
 
 Laravel Admin is licensed under <a href="LICENSE">The MIT License (MIT)</a>.
+
 
 ## Screenshots
 
